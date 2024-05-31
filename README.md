@@ -2,7 +2,7 @@ This repository contains documentation on customer segmentation using a bank's c
 
 🚩 Project Name: Credit Card Customer Segmentation using BigQuery and Scikit-Learn  
 🙋🏻‍♂️ Project Owner: Fazrin Muhammad  
-🏁 Date Finished: April 2024
+🏁 Date Finished: April 2024  
 📞 Contact: [LinkedIn](https://www.linkedin.com/in/fazrin-muhammad-199098153/); [E-mail](mailto:fazriinmuhammad@gmail.com)
 
 # Introduction:
